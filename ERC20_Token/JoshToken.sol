@@ -13,3 +13,6 @@ contract JoshToken is ERC20, Ownable {
         _mint(to, amount * 1000);
     }
 }
+
+
+
